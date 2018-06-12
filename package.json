@@ -1,0 +1,11 @@
+{
+  "name": "crproxy",
+  "version": "1.0.0",
+  "description": "Clash Royale Proxy Server for debugging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alexander Mayorov (vk.com/alxmay)",
+  "license": "ISC"
+}
