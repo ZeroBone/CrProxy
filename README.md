@@ -3,5 +3,5 @@
 This is a work-in-progress proxy server for cr 2.2.
 
 Credits:
-⋅⋅* [aperpen](https://github.com/aperpen) and contributors - client crypto and other sc libs.
-⋅⋅* [RoyaleTitans](https://github.com/RoyaleTitans/) - patched apk and crypto.
+* [aperpen](https://github.com/aperpen) and contributors - client crypto and other sc libs.
+* [RoyaleTitans](https://github.com/RoyaleTitans/) - patched apk and crypto.
