@@ -21,7 +21,7 @@ class CrProxy {
 
         this._setupListeners();
 
-        this.server.listen(9339, "192.168.2.113");
+        this.server.listen(9339);
 
         this.clientCrypto = new ClientCrypto();
 
